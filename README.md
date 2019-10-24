@@ -19,7 +19,7 @@ sudo ./youbot.sh URL
 apt-get install -y xdotool tor proxychains 
 ```
 
-
+![ur](https://user-images.githubusercontent.com/56509491/66862492-9e423d80-efae-11e9-8b2f-004d5381297a.png)
 ### Donate!
 Support the authors:
 
