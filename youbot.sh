@@ -1,4 +1,11 @@
 #!/bin/bash
+sleep 2
+green="\e[92m"
+printf "${green}"
+figlet YOUTUBE BOT
+echo CODED BY CYBER KALLAN
+echo
+echo FOLLOW ME ON I|G arz_beats
 
 checkroot() {
 if [[ "$(id -u)" -ne 0 ]]; then
