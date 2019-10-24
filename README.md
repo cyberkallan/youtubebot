@@ -1,14 +1,14 @@
-# Youbot v1.0
-## Link: github.com/thelinuxchoice/youbot
-## Author: github.com/thelinuxchoice
-## IG: instagram.com/thelinuxchoice
+# Youtubebot v1.0
+## Link: https://github.com/cyberkallan/youtubebot
+## Author: https://github.com/cyberkallan/youtubebot
+## IG: instagram.com/arz_beats
 ### Don't copy this code without give me the credits, bitch! 
-Youbot is a Shell Script to increase views on Youtube using Tor ips.
+Youtubebot is a Shell Script to increase views on Youtube using Tor ips.
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/youbot
-cd youbot
+git clone https://github.com/cyberkallan/youtubebot
+cd youtubebot
 service tor start
 sudo ./youbot.sh URL
 ```
